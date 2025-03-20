@@ -19,8 +19,8 @@ If you're looking for someone who can ensure your application is **FREE FROM BUG
 ### Reach me on:
 - [Upwork](#)
 - [LinkedIn](#)
-- [GitHub](https://github.com/faijanshaikh)
-- [Email](mailto:your.email@example.com)
+- [GitHub](https://github.com/testshadab)
+- [Email](mailto:test.shadab@gmail.com)
 
 ---
 🚀 *Let's collaborate and build something amazing together!* 🚀
