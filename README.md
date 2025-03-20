@@ -1,4 +1,4 @@
-# Hey, I am Faijan Shaikh 👋
+# Hey, I am Shadab Shaikh 👋
 
 ## About Me
 As a dedicated and self-driven **Project Manager and QA Freelancer**, I bring over **12 years of hands-on experience** in **Manual, Automation, and Mobile Testing**. Throughout my career, I have helped clients across various industries deliver high-quality applications by implementing efficient **QA strategies, automation frameworks, and performance testing techniques**.
