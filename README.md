@@ -80,11 +80,11 @@ As a dedicated and self-driven **Project Manager and QA Freelancer**, I bring ov
 - Grey box testing
   
 **Programming and Query languages:**
-Java
-Python
-Java script
-Type Script
-SQL
+- Java
+- Python
+- Java script
+- Type Script
+- SQL
 
 I take pride in ensuring that applications are **bug-free, scalable, and meet industry standards**. My passion lies in the process of **"Destructive Creation"**, making applications more **robust and user-friendly**. 
 
