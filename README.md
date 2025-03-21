@@ -20,11 +20,8 @@ As a dedicated and self-driven **Project Manager and QA Freelancer**, I bring ov
 **Usually nowadays all the bugs are reported in bug tracking tools. These are just samples of bug reports.**
 
  - [Web Application bug report](https://tinyurl.com/webtest12QA)- For a Web application testing with steps, videos and log files.
- 
  - [Mobile App bug report](https://docs.google.com/spreadsheets/d/15u5Yxqvn9cfOoIPeG1JX1_hTUM4ET1DzIAlSO-UqX4w/edit?gid=0#gid=0)- For a Web application testing with steps, videos and log files.
- 
  - [Bug Report](https://docs.google.com/spreadsheets/d/1t9KyTlH5v6gz_QYtUpRt2bYjNDs5Db89NwSu1bJ5e0Y/edit?gid=1598429747#gid=1598429747)- bug report sample in Excel format
- 
  - [Bug Report](https://docs.google.com/spreadsheets/d/1XKoR0z19J4zt6CJuXN9Qktb4gyVN7N6i-7z_XnhKnmM/edit?gid=0#gid=0)- bug report sample
 
 **Test cases Work Sample:**
