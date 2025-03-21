@@ -40,8 +40,11 @@ If you're looking for someone who can ensure your application is **FREE FROM BUG
  - [Bug Report](https://docs.google.com/spreadsheets/d/1XKoR0z19J4zt6CJuXN9Qktb4gyVN7N6i-7z_XnhKnmM/edit?gid=0#gid=0)- bug report sample
 
 **Test cases Work Sample:**
-- DataBase Testing
-- Functional, Usability, API testing
+- [Test Plan](https://docs.google.com/document/d/1urEP8WUpcnecAllNgL6LjQxIvvE66DJgZXLgic5HeW4/edit?tab=t.0#heading=h.kc786lgjkvxq)
+- [Feature Checklist](https://docs.google.com/spreadsheets/d/1HSBE8mkfhs7JOoBfJeeUeO_9OZBBLdUFWQXyvVIdJnY/edit?gid=1025458239#gid=1025458239)
+- [Test Cases](https://docs.google.com/spreadsheets/d/1xbbxDUgSavrPanoxWWe8ov82VSsuVVekDdUmIqnjOTk/edit?gid=0#gid=0)
+- [API Testing](https://docs.google.com/spreadsheets/d/10q_WmAEny3UeyXB4OTCG-AeVxH-273Fbkkheho0KuMw/edit?gid=0#gid=0)
+- [Performance/Load Testing (JMeter)](https://docs.google.com/spreadsheets/d/1SmLqXBb3iSnpy9ukvEbpCQd-6_Fl2TD_gpmiW1QmekY/edit?gid=1157066253#gid=1157066253)
   
 **Test Closure report Work Sample:**
 - Test clousre report- Mobile app
