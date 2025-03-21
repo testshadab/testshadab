@@ -11,7 +11,7 @@ As a dedicated and self-driven **Project Manager and QA Freelancer**, I bring ov
 - **CI/CD Integration:** GitHub Actions, Jenkins
 - **Test Management:** Jira, TestRail, Confluence
 
-# #Work Sample 👷
+## Work Sample 👷
 - **Manual Testing Work Sample:**
 - **Bug reports:**
 - **Usually now a days all the bugs are reported in bug tracking tools. These are just samples of bug reports.**
