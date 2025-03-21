@@ -11,6 +11,21 @@ As a dedicated and self-driven **Project Manager and QA Freelancer**, I bring ov
 - **CI/CD Integration:** GitHub Actions, Jenkins
 - **Test Management:** Jira, TestRail, Confluence
 
+  I take pride in ensuring that applications are **bug-free, scalable, and meet industry standards**. My passion lies in the process of **"Destructive Creation"**, making applications more **robust and user-friendly**. 
+
+## 🚀 Let's Connect!
+If you're looking for someone who can ensure your application is **FREE FROM BUGS 🐛🐛🐛, on time ⏳**, then HIRE ME! 🚀🚀🚀
+
+### Reach me on:
+- [Upwork](#)
+- [LinkedIn](#)
+- [GitHub](https://github.com/testshadab)
+- [Email](mailto:test.shadab@gmail.com)
+
+---
+🚀 *Let's collaborate and build something amazing together!* 🚀
+
+
 ## Work Sample 👷
 
 **Manual Testing Work Sample:**
@@ -85,17 +100,3 @@ As a dedicated and self-driven **Project Manager and QA Freelancer**, I bring ov
 - Java script
 - Type Script
 - SQL
-
-I take pride in ensuring that applications are **bug-free, scalable, and meet industry standards**. My passion lies in the process of **"Destructive Creation"**, making applications more **robust and user-friendly**. 
-
-## 🚀 Let's Connect!
-If you're looking for someone who can ensure your application is **FREE FROM BUGS 🐛🐛🐛, on time ⏳**, then HIRE ME! 🚀🚀🚀
-
-### Reach me on:
-- [Upwork](#)
-- [LinkedIn](#)
-- [GitHub](https://github.com/testshadab)
-- [Email](mailto:test.shadab@gmail.com)
-
----
-🚀 *Let's collaborate and build something amazing together!* 🚀
