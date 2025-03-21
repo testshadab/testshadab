@@ -12,9 +12,12 @@ As a dedicated and self-driven **Project Manager and QA Freelancer**, I bring ov
 - **Test Management:** Jira, TestRail, Confluence
 
 ## Work Sample 👷
-- **Manual Testing Work Sample:**
-- **Bug reports:**
-- **Usually now a days all the bugs are reported in bug tracking tools. These are just samples of bug reports.**
+
+**Manual Testing Work Sample:**
+
+**Bug reports:**
+
+**Usually now a days all the bugs are reported in bug tracking tools. These are just samples of bug reports.**
 
  [Web Application bug report](https://tinyurl.com/webtest12QA)- For a Web application testing with steps, videos and log files.
 
