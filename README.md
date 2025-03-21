@@ -21,23 +21,26 @@ As a dedicated and self-driven **Project Manager and QA Freelancer**, I bring ov
 
  - [Web Application bug report](https://tinyurl.com/webtest12QA)- For a Web application testing with steps, videos and log files.
  
- - Mobile App bug report- For a Web application testing with steps, videos and log files.
+ - [Mobile App bug report](https://docs.google.com/spreadsheets/d/15u5Yxqvn9cfOoIPeG1JX1_hTUM4ET1DzIAlSO-UqX4w/edit?gid=0#gid=0)- For a Web application testing with steps, videos and log files.
  
- - Bug Repot - bug report sample in excel format
+ - [Bug Report](https://docs.google.com/spreadsheets/d/1t9KyTlH5v6gz_QYtUpRt2bYjNDs5Db89NwSu1bJ5e0Y/edit?gid=1598429747#gid=1598429747)- bug report sample in Excel format
  
- - Bug Repot - bug report sample
+ - [Bug Report](https://docs.google.com/spreadsheets/d/1XKoR0z19J4zt6CJuXN9Qktb4gyVN7N6i-7z_XnhKnmM/edit?gid=0#gid=0)- bug report sample
 
 **Test cases Work Sample:**
 - DataBase Testing
 - Functional, Usability, API testing
+  
 **Test Closure report Work Sample:**
 - Test clousre report- Mobile app
+  
 **Automation Work Sample:**
 - Page Object Model, Appium For mobile app testing Git Hub Repository
 - Cucumber BDD framework for mobile app fucntional, API testing Git Hub Repository
 - Python Selenium Framework for Functional, API, DB Testing Git Hub Repository
 - Playwright Python POM Pytest Git Hub Repository
 - Database Testing
+  
 **Domains Expertise 💻:**
 - Crypto Wallet
 - e-Commerce
@@ -47,6 +50,7 @@ As a dedicated and self-driven **Project Manager and QA Freelancer**, I bring ov
 - AI based
 - Business Management
 - Social Media
+  
 **Tools 🔧**
 - Jira, Trello, Clickup- project management and bug tracking
 - Testrail, xray - Test case management tools
@@ -77,6 +81,7 @@ As a dedicated and self-driven **Project Manager and QA Freelancer**, I bring ov
 - Performance Testing
 - Load Testing
 - Grey box testing
+  
 **Programming and Query languages:**
 Java
 Python
