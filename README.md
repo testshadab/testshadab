@@ -26,7 +26,7 @@ If you're looking for someone who can ensure your application is **FREE FROM BUG
 🚀 *Let's collaborate and build something amazing together!* 🚀
 
 
-## Work Sample 👷
+## Work Sample 🧑‍💻
 
 **Manual Testing Work Sample:**
 
