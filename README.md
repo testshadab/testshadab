@@ -67,26 +67,28 @@ If you're looking for someone who can ensure your application is **FREE FROM BUG
 - Social Media
   
 **Tools 🔧**
-- Jira, Trello, Clickup- project management and bug tracking
-- Testrail, xray - Test case management tools
-- Confluence - storing informations and documents about project
-- Slack - communication within the team
-- Chrome Devtools - for better testing and improving bug reports
-- Google Drive - storing data
-- GitHub - supporting Git and preparing my repositories
-- Postman - API testing
-- Pycharm - Python scripting
-- Visual Studio Code - Python, JAVA Scription coding
-- Selenium - Web Automation Testing
-- Appium - Mobile automation testing and integration with browserstack
-- Playwright - Web Automation Testing
-- Cypress - Ai based web automation testing
-- Eclipse - Java scripting IDE
-- Jmeter - Performance testing tool
+- [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour), [Asana](https://app.asana.com/-/login)- Project management and bug tracking
+- [Testrail](https://www.testrail.com/) - Test case management tools
+- [Confluence](https://www.atlassian.com/software/confluence) - Storing information and documents about the project
+- [Slack](https://slack.com/intl/en-in/) - Communication within the team
+- [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - For better testing and improving bug reports
+- [Google Drive](https://workspace.google.com/intl/pl_pl/products/drive/) - Storing data
+- [GitHub](https://github.com/) - supporting Git and preparing my repositories
+- [Postman](https://www.postman.com/) - API testing
+- [Pycharm](https://www.jetbrains.com/pycharm/) - Python scripting
+- [Visual Studio Code](https://code.visualstudio.com/) - Python, JAVA Scription coding
+- [Selenium](https://www.selenium.dev/) - Web Automation Testing
+- [Appium](https://appium.io/docs/en/2.2/) - Mobile automation testing and integration with browserstack
+- [Playwright](https://playwright.dev/) - Web Automation Testing
+- [Cypress](https://www.cypress.io/) - Web & API Automation Testing
+- [Katalon](https://katalon.com/) - Web, Mobile & API Automation Testing
+- [Mabl](https://www.mabl.com/) - AI-native Web Test Automation
+- [Eclipse](https://www.eclipse.org/) - Java scripting IDE
+- [Jmeter](https://jmeter.apache.org/) - Performance testing tool
 
 **Testing Types 🧪:**
 - Functional testing
-- Rest API testing
+- REST API testing
 - Software testing
 - Functional testing
 - DB testing
