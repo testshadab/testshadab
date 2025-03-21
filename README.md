@@ -11,26 +11,26 @@ As a dedicated and self-driven **Project Manager and QA Freelancer**, I bring ov
 - **CI/CD Integration:** GitHub Actions, Jenkins
 - **Test Management:** Jira, TestRail, Confluence
 
-  Work Sample 👷
-Manual Testing Work Sample:
-Bug reports:
-Usually now a days all the bugs are reported in bug tracking tools. These are just samples of bug reports.
+# #Work Sample 👷
+- **Manual Testing Work Sample:**
+- **Bug reports:**
+- **Usually now a days all the bugs are reported in bug tracking tools. These are just samples of bug reports.**
 [Web Application bug report](https://tinyurl.com/webtest12QA)- For a Web application testing with steps, videos and log files.
 Mobile App bug report- For a Web application testing with steps, videos and log files.
 Bug Repot - bug report sample in excel format
 Bug Repot - bug report sample
-Test cases Work Sample:
+- **Test cases Work Sample:**
 DataBase Testing
 Functional, Usability, API testing
-Test Closure report Work Sample:
+- **Test Closure report Work Sample:**
 Test clousre report- Mobile app
-Automation Work Sample:
+- **Automation Work Sample:**
 Page Object Model, Appium For mobile app testing Git Hub Repository
 Cucumber BDD framework for mobile app fucntional, API testing Git Hub Repository
 Python Selenium Framework for Functional, API, DB Testing Git Hub Repository
 Playwright Python POM Pytest Git Hub Repository
 Database Testing
-Domains Expertise 💻:
+- **Domains Expertise 💻:**
 Crypto Wallet
 e-Commerce
 e-Learning
@@ -39,7 +39,7 @@ Affiliate Marketing
 AI based
 Business Management
 Social Media
-Tools 🔧
+- **Tools 🔧**
 Jira, Trello, Clickup- project management and bug tracking
 
 Testrail, xray - Test case management tools
@@ -72,7 +72,7 @@ Eclipse - Java scripting IDE
 
 Jmeter - Performance testing tool
 
-Testing Types 🧪:
+- **Testing Types 🧪:**
 Functional testing
 Rest API testing
 Software testing
@@ -84,7 +84,7 @@ Mobile Automation testing
 Performance Testing
 Load Testing
 Grey box testing
-Programming and Query languages:
+- **Programming and Query languages:**
 Java
 Python
 Java script
